@@ -1,0 +1,17 @@
+.background {background: rgb(255,0,0);}
+.background {background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(0,0,0,1) 50%, rgba(255,0,0,1) 100%);}
+.navbar 
+    {
+        width: 100%;
+        left: 0;
+        text-align: center;
+    }
+.wwenews {color: white;text-align: center;}
+.intermedio h1{text-align: center; color: white;}
+.networklogin h4{text-align: center;} 
+.networklogin {color: white;} 
+.networklogin img {width: 1100px}
+.footer {color: white;margin-top: 20px; background-color: black}
+.card {margin-bottom: 20px; text-align: center; margin-left: 30px ;} 
+.card h2{font-size: small;} 
+.logocard {display: table;margin: auto;} 
